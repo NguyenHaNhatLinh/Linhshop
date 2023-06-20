@@ -39,7 +39,7 @@
                         width: 300px;"
                         />
                         <div class="card-body">
-                        <a href="Detail.php?id=<?=$row['pid']?>" 
+                        <a href="detail.php?id=<?=$row['pid']?>" 
                         class="text-decoration-none"><h5 class="card-title"><?=$row['pname']?>
                         </h5></a>
                         <h6 class="card-subtitle mb-2 text-muted"><span>&#8363;</span><?=$row['price']?>

@@ -46,14 +46,14 @@ include_once 'Header.php';
             <div class="col-md-4 pb-3">
                     <div class="card">
                         <img
-                        src="../simpleweb/images/<?=$r['image']?>"
+                        src="./images/<?=$r['image']?>"
                         class="card-img-top"
                         alt="Product>" style="margin: auto;
                         width: 300px;"
                         />
                         <div class="card-body">
                             <!-- id -->
-                        <a href="Detail.php?id=<?=$row['Pid']?>" 
+                        <a href="detail.php?id=<?=$row['Pid']?>" 
                         class="text-decoration-none"><h5 class="card-title">
                         <?=$r['pname']?>
                         </h5></a>
