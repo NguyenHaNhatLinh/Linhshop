@@ -7,10 +7,10 @@
 
         public function __construct()
         {
-            $this->server ="pfw0ltdr46khxib3.cbetxkdyhwsb.us-east-1.rds.amazonaws.com";
-            $this->user ="t2p1acqi3zefku0e";
-            $this->password ="nte40gv72bx57coo";
-            $this->dbName ="l6zxkxhpmfh0yggi";
+            $this->server ="y5svr1t2r5xudqeq.cbetxkdyhwsb.us-east-1.rds.amazonaws.com";
+            $this->user ="wlciozteqglgsea8";
+            $this->password ="ct138ezqzn1j4jgv";
+            $this->dbName ="rycx6bw1m2nzhjez";
         }
 
         //option 1 : use Mysqli
