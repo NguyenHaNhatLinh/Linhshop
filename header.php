@@ -79,8 +79,8 @@
                     <?php
                     else:
                 ?>
-                    <a href="login.php" class="nav-item nav-link" style="color:aqua; font-size: 25px;">Login</a>
-                    <a href="register.php" class="nav-item nav-link" style="font-size: 25px; color:aqua;">
+                    <a href="Login.php" class="nav-item nav-link" style="color:aqua; font-size: 25px;">Login</a>
+                    <a href="Register.php" class="nav-item nav-link" style="font-size: 25px; color:aqua;">
                         Register</a>
                     <?php
                     endif;

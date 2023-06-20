@@ -16,7 +16,7 @@
             href="https://www.instagram.com/nguyenhanhatlinhtvt/"><br></a>
             <hr>    
     </div> 
-    <div class="text-center p-4" style="background-color: rgba(0, 0, 0, 0.2);"><img src="../simpleweb/images/logo.jpg"alt="" 
+    <div class="text-center p-4" style="background-color: rgba(0, 0, 0, 0.2);"><img src="./images/logo.jpg"alt="" 
     width="100px" height="70px">
       © 2020 Copyright 
       <a class="text-reset fw-bold" href="http://localhost:8080/simpleweb/index.php">Linh-Store</a>
