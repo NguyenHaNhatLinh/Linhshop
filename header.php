@@ -35,8 +35,8 @@
                         Product Management
                     </a>
                     <div class="dropdown-menu">
-                        <a class="dropdown-item" href="proadd.php">Add Product</a>
-                        <a class="dropdown-item" href="index.php"> Product</a>
+                        <a class="dropdown-item" href="./proadd.php">Add Product</a>
+                        <a class="dropdown-item" href="./index.php"> Product</a>
 
                         </a>
                     </div>
