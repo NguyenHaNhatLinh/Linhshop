@@ -15,7 +15,7 @@
 </head>
 <header>
     <nav class="navbar navbar-expand-md navbar-dark" style="background-color:black; display:flex">
-        <img src="../simpleweb/images/logo.jpg" width="170px" height="150px">
+        <img src="./images/logo.jpg" width="170px" height="150px">
         <div class="container-fluid">
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarMain">
                 <span class="navbar-toggler-icon"></span>
