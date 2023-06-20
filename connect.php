@@ -9,7 +9,7 @@
         {
             $this->server ="pfw0ltdr46khxib3.cbetxkdyhwsb.us-east-1.rds.amazonaws.com";
             $this->user ="t2p1acqi3zefku0e";
-            $this->password ="	nte40gv72bx57coo";
+            $this->password ="nte40gv72bx57coo";
             $this->dbName ="l6zxkxhpmfh0yggi";
         }
 
