@@ -7,10 +7,10 @@
 
         public function __construct()
         {
-            $this->server ="localhost";
-            $this->user ="root";
-            $this->password ="";
-            $this->dbName ="linh_shop";
+            $this->server ="pfw0ltdr46khxib3.cbetxkdyhwsb.us-east-1.rds.amazonaws.com";
+            $this->user ="t2p1acqi3zefku0e";
+            $this->password ="	nte40gv72bx57coo";
+            $this->dbName ="l6zxkxhpmfh0yggi";
         }
 
         //option 1 : use Mysqli
