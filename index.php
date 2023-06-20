@@ -33,7 +33,7 @@
             <div class="col-md-4 pb-3">
                     <div class="card">
                         <img
-                        src="../simpleweb/images/<?=$row['image']?>"
+                        src="./images/<?=$row['image']?>"
                         class="card-img-top"
                         alt="Product" style="margin: auto;
                         width: 300px;"
