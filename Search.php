@@ -1,5 +1,5 @@
 <?php
-include_once 'Header.php';
+include_once 'header.php';
 ?>
 
 <div class="container px-4 py-5">
