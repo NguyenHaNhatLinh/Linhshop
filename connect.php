@@ -8,9 +8,9 @@
         public function __construct()
         {
             $this->server ="pfw0ltdr46khxib3.cbetxkdyhwsb.us-east-1.rds.amazonaws.com";
-            $this->user ="hwfij3zn12wm3ll0";
-            $this->password ="o4xpckoehzxwlqku";
-            $this->dbName ="vwu5xkw8tz0rvi7d";
+            $this->user ="okzt8y1698hm53gi";
+            $this->password ="kxi8xbefbjlqea4d";
+            $this->dbName ="hqbxbcz55aa05uzu";
         }
 
         //option 1 : use Mysqli
